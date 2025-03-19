@@ -1,0 +1,618 @@
+﻿Amino Acid (Stop),EGFR Position,Z-score,Intracellular_Extracellular,Domain,p-value
+,675,-3.095902242,Intracellular,juxtamembrane,0.528208099
+,121,-1.655822488,Extracellular,domain I,0.556080286
+,285,-1.080890063,Extracellular,domain II,0.552916545
+,1139,-0.868346399,Intracellular,c-terminal,0.182116371
+,527,-0.844522662,Extracellular,domain IV,0.268731367
+,221,-0.83896454,Extracellular,domain II,0.30408331
+,438,-0.823105812,Extracellular,domain III,0.092751392
+,638,-0.761265117,Extracellular,domain IV,0.164719028
+,893,-0.682918929,Intracellular,kinase,0.08676128
+,1065,-0.650888046,Intracellular,c-terminal,0.198336179
+,649,-0.644160883,Intracellular,transmembraine,0.162809735
+,934,-0.61348464,Intracellular,kinase,0.368859523
+,948,-0.594461745,Intracellular,kinase,0.262156187
+,11,-0.578936218,Extracellular,signal peptide,0.209051554
+,1142,-0.578595187,Intracellular,c-terminal,0.138159834
+,840,-0.555365224,Intracellular,kinase,0.116824467
+,84,-0.508303549,Extracellular,domain I,0.186001834
+,688,-0.506942015,Intracellular,juxtamembrane,0.275402342
+,269,-0.49361735,Extracellular,domain II,0.253235605
+,281,-0.479936569,Extracellular,domain II,0.203378613
+,1109,-0.473990037,Intracellular,c-terminal,0.196670895
+,647,-0.458573839,Intracellular,transmembraine,0.43174865
+,411,-0.44059297,Extracellular,domain III,0.474839226
+,837,-0.438762801,Intracellular,kinase,0.178616474
+,545,-0.438405205,Extracellular,domain IV,0.266339155
+,663,-0.437999863,Intracellular,transmembraine,0.309629212
+,873,-0.431693014,Intracellular,kinase,0.105039035
+,943,-0.423457617,Intracellular,kinase,0.208423984
+,569,-0.422515447,Extracellular,domain IV,0.14821893
+,906,-0.422253499,Intracellular,kinase,0.242100297
+,926,-0.412970007,Intracellular,kinase,0.139176203
+,790,-0.412337404,Intracellular,kinase,0.380626885
+,1147,-0.403944185,Intracellular,c-terminal,0.263368154
+,607,-0.399823732,Extracellular,domain IV,0.408282398
+,669,-0.393058692,Intracellular,juxtamembrane,0.244179456
+,1117,-0.391275931,Intracellular,c-terminal,0.210056512
+,640,-0.391268236,Extracellular,domain IV,0.199555999
+,1102,-0.387853279,Intracellular,c-terminal,0.433510988
+,319,-0.385513938,Extracellular,domain II,0.220768455
+,5,-0.373014931,Extracellular,signal peptide,0.173783554
+,680,-0.366805346,Intracellular,juxtamembrane,0.416843402
+,192,-0.359297295,Extracellular,domain II,0.53623335
+,584,-0.351322501,Extracellular,domain IV,0.396093799
+,112,-0.35056881,Extracellular,domain I,0.224429787
+,641,-0.347787183,Extracellular,domain IV,0.21976416
+,1154,-0.33915916,Intracellular,c-terminal,0.408318754
+,247,-0.336563861,Extracellular,domain II,0.27258608
+,179,-0.332102594,Extracellular,domain I,0.175596672
+,6,-0.32374077,Extracellular,signal peptide,0.53623335
+,770,-0.298893782,Intracellular,kinase,0.113598951
+,453,-0.295716418,Extracellular,domain III,0.220768455
+,166,-0.293454646,Extracellular,domain I,0.144462354
+,1000,-0.292204995,Intracellular,c-terminal,0.416951308
+,107,-0.290439349,Extracellular,domain I,0.444609245
+,1164,-0.284925714,Intracellular,c-terminal,0.541360758
+,890,-0.27758968,Intracellular,kinase,0.112614222
+,672,-0.277519995,Intracellular,juxtamembrane,0.215336572
+,813,-0.275456872,Intracellular,kinase,0.266366683
+,593,-0.268045726,Extracellular,domain IV,0.327271156
+,589,-0.267927521,Extracellular,domain IV,0.186019904
+,564,-0.266913093,Extracellular,domain IV,0.280023305
+,205,-0.261012429,Extracellular,domain II,0.153775137
+,690,-0.258063855,Intracellular,juxtamembrane,0.087969748
+,502,-0.257396998,Extracellular,domain III,0.236404918
+,370,-0.256329004,Extracellular,domain III,0.221062791
+,745,-0.254563904,Intracellular,kinase,0.130887317
+,543,-0.252390348,Extracellular,domain IV,0.389154726
+,803,-0.247341145,Intracellular,kinase,0.234954924
+,972,-0.246239066,Intracellular,kinase,0.221791019
+,673,-0.243145113,Intracellular,juxtamembrane,0.306710751
+,1172,-0.24308027,Intracellular,c-terminal,0.344421039
+,522,-0.240934838,Extracellular,domain IV,0.173783554
+,692,-0.237656306,Intracellular,juxtamembrane,0.40634201
+,386,-0.227677749,Extracellular,domain III,0.433234012
+,618,-0.215692179,Extracellular,domain IV,0.204945644
+,788,-0.208143698,Intracellular,kinase,0.317908722
+,1009,-0.204050687,Intracellular,c-terminal,0.324465568
+,802,-0.201957226,Intracellular,kinase,0.288909437
+,633,-0.201145289,Extracellular,domain IV,0.508561034
+,1124,-0.201075499,Intracellular,c-terminal,0.379223038
+,524,-0.198527575,Extracellular,domain IV,0.369717669
+,1054,-0.197007507,Intracellular,c-terminal,0.278872818
+,574,-0.195128047,Extracellular,domain IV,0.298437913
+,654,-0.193132505,Intracellular,transmembraine,0.492316416
+,933,-0.192556218,Intracellular,kinase,0.326268798
+,409,-0.191907326,Extracellular,domain III,0.202591522
+,155,-0.185321787,Extracellular,domain I,0.37647568
+,254,-0.18464582,Extracellular,domain II,0.358242857
+,1203,-0.181695018,Intracellular,c-terminal,0.266982689
+,639,-0.178549311,Extracellular,domain IV,0.07889347
+,674,-0.175041104,Intracellular,juxtamembrane,0.29966278
+,561,-0.169317782,Extracellular,domain IV,0.171221346
+,992,-0.16903733,Intracellular,c-terminal,0.402315085
+,767,-0.168511859,Intracellular,kinase,0.495132881
+,1093,-0.166382727,Intracellular,c-terminal,0.115622127
+,661,-0.166361451,Intracellular,transmembraine,0.311266113
+,610,-0.162753308,Extracellular,domain IV,0.484066262
+,26,-0.162427321,Extracellular,domain I,0.173309387
+,897,-0.161005116,Intracellular,kinase,0.309334477
+,415,-0.157288184,Extracellular,domain III,0.498049398
+,310,-0.156288149,Extracellular,domain II,0.4675833
+,757,-0.155149622,Intracellular,kinase,0.393911989
+,960,-0.154171953,Intracellular,kinase,0.462397844
+,983,-0.153641418,Intracellular,c-terminal,0.292527979
+,742,-0.153216992,Intracellular,kinase,0.481032545
+,417,-0.153163961,Extracellular,domain III,0.0600231
+,613,-0.151070659,Extracellular,domain IV,0.419037749
+,59,-0.148090363,Extracellular,domain I,0.419563608
+,289,-0.144755045,Extracellular,domain II,0.515042663
+,1014,-0.142734435,Intracellular,c-terminal,0.454262056
+,331,-0.140906998,Extracellular,domain II,0.291513387
+,1182,-0.140004532,Intracellular,c-terminal,0.465104714
+,149,-0.13942251,Extracellular,domain I,0.420691001
+,339,-0.138860173,Extracellular,domain III,0.559662764
+,233,-0.138773203,Extracellular,domain II,0.16788303
+,980,-0.132984122,Intracellular,c-terminal,0.23340073
+,937,-0.130376876,Intracellular,kinase,0.208761105
+,1181,-0.127710024,Intracellular,c-terminal,0.494609228
+,800,-0.124369631,Intracellular,kinase,0.296947143
+,323,-0.123851681,Extracellular,domain II,0.201182515
+,1086,-0.117864045,Intracellular,c-terminal,0.537072478
+,86,-0.116954151,Extracellular,domain I,0.434107347
+,782,-0.114870469,Intracellular,kinase,0.594053761
+,1119,-0.114739768,Intracellular,c-terminal,0.193213654
+,197,-0.113251278,Extracellular,domain II,0.344731113
+,30,-0.106940371,Extracellular,domain I,0.426412968
+,975,-0.105111178,Intracellular,kinase,0.421979526
+,853,-0.104432652,Intracellular,kinase,0.428325928
+,1031,-0.101772417,Intracellular,c-terminal,0.385619545
+,694,-0.100861173,Intracellular,juxtamembrane,0.536852783
+,154,-0.097627002,Extracellular,domain I,0.452041923
+,80,-0.096989987,Extracellular,domain I,0.268379069
+,173,-0.095947454,Extracellular,domain I,0.214029546
+,702,-0.095380109,Intracellular,juxtamembrane,0.566654933
+,1127,-0.094766621,Intracellular,c-terminal,0.309485654
+,592,-0.089806929,Extracellular,domain IV,0.5744141
+,399,-0.089304,Extracellular,domain III,0.125218708
+,888,-0.08814527,Intracellular,kinase,0.291197524
+,965,-0.087811511,Intracellular,kinase,0.547414681
+,653,-0.081391031,Intracellular,transmembraine,0.444838299
+,118,-0.079873194,Extracellular,domain I,0.506284274
+,272,-0.077323985,Extracellular,domain II,0.291197524
+,62,-0.076451621,Extracellular,domain I,0.58159151
+,61,-0.075232864,Extracellular,domain I,0.185164144
+,953,-0.073756323,Intracellular,kinase,0.498008707
+,626,-0.073325701,Extracellular,domain IV,0.516752892
+,170,-0.069139456,Extracellular,domain I,0.24329403
+,851,-0.068851125,Intracellular,kinase,0.558363285
+,1006,-0.066296569,Intracellular,c-terminal,0.255154548
+,321,-0.062886541,Extracellular,domain II,0.351599055
+,807,-0.061920154,Intracellular,kinase,0.484642748
+,1063,-0.057429691,Intracellular,c-terminal,0.494609228
+,1178,-0.057024607,Intracellular,c-terminal,0.532083118
+,573,-0.056681182,Extracellular,domain IV,0.556951146
+,304,-0.054234992,Extracellular,domain II,0.203378613
+,704,-0.054130075,Intracellular,juxtamembrane,0.294364764
+,509,-0.053999983,Extracellular,domain IV,0.221062791
+,1061,-0.050664021,Intracellular,c-terminal,0.225905465
+,968,-0.043858351,Intracellular,kinase,0.499560774
+,721,-0.043381708,Intracellular,kinase,0.172463607
+,991,-0.043254047,Intracellular,c-terminal,0.138159834
+,829,-0.042594882,Intracellular,kinase,0.387930066
+,63,-0.041649698,Extracellular,domain I,0.499503005
+,64,-0.040515208,Extracellular,domain I,0.245139191
+,531,-0.038102147,Extracellular,domain IV,0.236577377
+,743,-0.037844527,Intracellular,kinase,0.605607404
+,999,-0.034228795,Intracellular,c-terminal,0.284197207
+,267,-0.033856469,Extracellular,domain II,0.578442066
+,751,-0.031884323,Intracellular,kinase,0.593890975
+,580,-0.031174133,Extracellular,domain IV,0.476234315
+,313,-0.028217414,Extracellular,domain II,0.567508197
+,1191,-0.027659776,Intracellular,c-terminal,0.492411902
+,353,-0.025114152,Extracellular,domain III,0.507314771
+,666,-0.024264595,Intracellular,transmembraine,0.583722497
+,1175,-0.023070892,Intracellular,c-terminal,0.561573217
+,1073,-0.022362487,Intracellular,c-terminal,0.547414681
+,1027,-0.022280722,Intracellular,c-terminal,0.597636648
+,165,-0.019833968,Extracellular,domain I,0.389586724
+,250,-0.019114814,Extracellular,domain II,0.521886836
+,97,-0.01468286,Extracellular,domain I,0.501532077
+,343,-0.010317579,Extracellular,domain III,0.098805355
+,312,-0.006109594,Extracellular,domain II,0.309334477
+,583,-0.004046016,Extracellular,domain IV,0.282811089
+,966,-0.003839189,Intracellular,kinase,0.530974823
+,554,-0.001750628,Extracellular,domain IV,0.1732684
+,735,1.15E-05,Intracellular,kinase,0.270915502
+,582,0.000223509,Extracellular,domain IV,0.234670705
+,643,0.001358573,Extracellular,domain IV,0.545943784
+,1150,0.001508496,Intracellular,c-terminal,0.38705926
+,901,0.003668203,Intracellular,kinase,0.597984083
+,302,0.006387861,Extracellular,domain II,0.533253525
+,598,0.00975438,Extracellular,domain IV,0.376887108
+,920,0.012099604,Intracellular,kinase,0.539625642
+,244,0.013062068,Extracellular,domain II,0.221186683
+,859,0.014200409,Intracellular,kinase,0.588565827
+,500,0.015506941,Extracellular,domain III,0.548325932
+,918,0.015617621,Intracellular,kinase,0.275402342
+,465,0.017497002,Extracellular,domain III,0.589213658
+,544,0.018577203,Extracellular,domain IV,0.16228011
+,355,0.019126386,Extracellular,domain III,0.28929262
+,78,0.023062514,Extracellular,domain I,0.582604862
+,818,0.025480862,Intracellular,kinase,0.555313513
+,167,0.025725606,Extracellular,domain I,0.581048453
+,293,0.02576224,Extracellular,domain II,0.180787563
+,611,0.026393639,Extracellular,domain IV,0.127648415
+,1101,0.027024597,Intracellular,c-terminal,0.544032719
+,1060,0.027136591,Intracellular,c-terminal,0.570955188
+,1029,0.02814292,Intracellular,c-terminal,0.576794796
+,1158,0.028349892,Intracellular,c-terminal,0.326867186
+,34,0.030185585,Extracellular,domain I,0.61623209
+,750,0.031685441,Intracellular,kinase,0.106662011
+,882,0.032111959,Intracellular,kinase,0.437365122
+,245,0.032221923,Extracellular,domain II,0.576969533
+,93,0.032792458,Extracellular,domain I,0.541614547
+,1032,0.034058824,Intracellular,c-terminal,0.283828525
+,1033,0.034523802,Intracellular,c-terminal,0.571303373
+,612,0.036471829,Extracellular,domain IV,0.61623209
+,646,0.036916475,Intracellular,transmembraine,0.449598768
+,696,0.037018422,Intracellular,juxtamembrane,0.583385854
+,772,0.037267721,Intracellular,kinase,0.325195092
+,194,0.039851099,Extracellular,domain II,0.166319982
+,556,0.040575459,Extracellular,domain IV,0.279080392
+,831,0.040993875,Intracellular,kinase,0.54593232
+,22,0.041100492,Extracellular,signal peptide,0.215973515
+,434,0.042547313,Extracellular,domain III,0.393357238
+,282,0.042971674,Extracellular,domain II,0.443301052
+,676,0.046304178,Intracellular,juxtamembrane,0.570092149
+,266,0.047445216,Extracellular,domain II,0.201228822
+,685,0.056332012,Intracellular,juxtamembrane,0.619398372
+,311,0.058210033,Extracellular,domain II,0.293864359
+,265,0.059203777,Extracellular,domain II,0.604597178
+,258,0.059207602,Extracellular,domain II,0.611511973
+,537,0.061544463,Extracellular,domain IV,0.304717637
+,238,0.062089258,Extracellular,domain II,0.27258608
+,237,0.062293406,Extracellular,domain II,0.611575733
+,1018,0.064890106,Intracellular,c-terminal,0.625117556
+,794,0.065685882,Intracellular,kinase,0.580080173
+,627,0.066275158,Extracellular,domain IV,0.609210154
+,366,0.066678084,Extracellular,domain III,0.288628642
+,51,0.067961769,Extracellular,domain I,0.606453451
+,317,0.069063255,Extracellular,domain II,0.381766488
+,341,0.07147562,Extracellular,domain III,0.468247032
+,325,0.072656884,Extracellular,domain II,0.60727167
+,597,0.076470681,Extracellular,domain IV,0.248870961
+,962,0.077269053,Intracellular,kinase,0.547414681
+,755,0.078289094,Intracellular,kinase,0.540743416
+,378,0.079044031,Extracellular,domain III,0.475222854
+,196,0.080668339,Extracellular,domain II,0.472267012
+,1013,0.081139375,Intracellular,c-terminal,0.546072544
+,938,0.081314779,Intracellular,kinase,0.478248083
+,190,0.081887117,Extracellular,domain II,0.199520393
+,728,0.082301546,Intracellular,kinase,0.606195669
+,100,0.08235679,Extracellular,domain I,0.627831127
+,1141,0.087404792,Intracellular,c-terminal,0.379223038
+,204,0.087515992,Extracellular,domain II,0.619398372
+,629,0.089366566,Extracellular,domain IV,0.368022652
+,847,0.089377519,Intracellular,kinase,0.609673139
+,1179,0.090442828,Intracellular,c-terminal,0.57920414
+,871,0.09075485,Intracellular,kinase,0.182383085
+,512,0.091229472,Extracellular,domain IV,0.592682973
+,369,0.093736223,Extracellular,domain III,0.615336938
+,423,0.094020338,Extracellular,domain III,0.495701221
+,632,0.094146255,Extracellular,domain IV,0.283235101
+,815,0.094532747,Intracellular,kinase,0.582889525
+,259,0.095633487,Extracellular,domain II,0.5810598
+,764,0.095723924,Intracellular,kinase,0.63915727
+,56,0.098184611,Extracellular,domain I,0.561094513
+,869,0.098203054,Intracellular,kinase,0.602530398
+,449,0.098367411,Extracellular,domain III,0.639104806
+,541,0.098367949,Extracellular,domain IV,0.630056282
+,1040,0.098909382,Intracellular,c-terminal,0.499903406
+,805,0.099059185,Intracellular,kinase,0.528118359
+,710,0.099779686,Intracellular,kinase,0.525639025
+,922,0.099943875,Intracellular,kinase,0.178812103
+,255,0.100332704,Extracellular,domain II,0.640696198
+,402,0.102654715,Extracellular,domain III,0.476231016
+,957,0.102831734,Intracellular,kinase,0.313164102
+,551,0.104067799,Extracellular,domain IV,0.585316266
+,454,0.104639286,Extracellular,domain III,0.524974038
+,1128,0.106149478,Intracellular,c-terminal,0.626712989
+,468,0.107538814,Extracellular,domain III,0.595028038
+,587,0.108357841,Extracellular,domain IV,0.620604558
+,907,0.108402928,Intracellular,kinase,0.537903679
+,703,0.112113495,Intracellular,juxtamembrane,0.544621644
+,622,0.112368916,Extracellular,domain IV,0.516041352
+,115,0.113155341,Extracellular,domain I,0.625640424
+,214,0.113566179,Extracellular,domain II,0.622183265
+,110,0.11358619,Extracellular,domain I,0.511390268
+,701,0.11497795,Intracellular,juxtamembrane,0.258010479
+,1048,0.115429009,Intracellular,c-terminal,0.62669842
+,577,0.116662488,Extracellular,domain IV,0.639786585
+,298,0.116849554,Extracellular,domain II,0.625127606
+,1082,0.119533887,Intracellular,c-terminal,0.561664431
+,741,0.119540625,Intracellular,kinase,0.600878039
+,73,0.121740909,Extracellular,domain I,0.370907911
+,9,0.122115452,Extracellular,signal peptide,0.384535458
+,359,0.12554556,Extracellular,domain III,0.525567449
+,1058,0.125912848,Intracellular,c-terminal,0.564079128
+,419,0.125921404,Extracellular,domain III,0.588674866
+,446,0.12851097,Extracellular,domain III,0.610385452
+,55,0.129031538,Extracellular,domain I,0.599328548
+,599,0.133437004,Extracellular,domain IV,0.641921168
+,712,0.134116625,Intracellular,kinase,0.620788244
+,327,0.135014616,Extracellular,domain II,0.587986492
+,744,0.135140469,Intracellular,kinase,0.663319711
+,648,0.136467179,Intracellular,transmembraine,0.251094122
+,566,0.137917676,Extracellular,domain IV,0.618308113
+,994,0.137958147,Intracellular,c-terminal,0.646565143
+,469,0.138165519,Extracellular,domain III,0.492411902
+,127,0.138492021,Extracellular,domain I,0.467057197
+,1205,0.138851275,Intracellular,c-terminal,0.60727167
+,455,0.139253101,Extracellular,domain III,0.542069912
+,1168,0.139919608,Intracellular,c-terminal,0.637130752
+,202,0.142477236,Extracellular,domain II,0.22743933
+,274,0.143109181,Extracellular,domain II,0.639104806
+,655,0.143568699,Intracellular,transmembraine,0.645278235
+,505,0.144830492,Extracellular,domain IV,0.58826387
+,1078,0.146035641,Intracellular,c-terminal,0.404892948
+,835,0.14753843,Intracellular,kinase,0.554744978
+,294,0.14949102,Extracellular,domain II,0.674110007
+,708,0.150714385,Intracellular,kinase,0.640696198
+,133,0.15145798,Extracellular,domain I,0.622895977
+,439,0.151981719,Extracellular,domain III,0.593986213
+,389,0.154093624,Extracellular,domain III,0.581043999
+,92,0.154228606,Extracellular,domain I,0.669311842
+,1156,0.154393773,Intracellular,c-terminal,0.664016399
+,895,0.155384474,Intracellular,kinase,0.616576772
+,1053,0.156987028,Intracellular,c-terminal,0.421910597
+,168,0.158446703,Extracellular,domain I,0.553593895
+,1039,0.158821983,Intracellular,c-terminal,0.491225918
+,243,0.15930201,Extracellular,domain II,0.646565143
+,398,0.161256931,Extracellular,domain III,0.620003204
+,637,0.162101807,Extracellular,domain IV,0.547915817
+,839,0.162850881,Intracellular,kinase,0.595517768
+,883,0.164119432,Intracellular,kinase,0.594590761
+,955,0.16424117,Intracellular,kinase,0.577397711
+,1114,0.167920288,Intracellular,c-terminal,0.638667678
+,946,0.168510324,Intracellular,kinase,0.666884922
+,188,0.169547036,Extracellular,domain I,0.602475884
+,139,0.17003074,Extracellular,domain I,0.630452173
+,560,0.173386143,Extracellular,domain IV,0.58826387
+,1132,0.174797087,Intracellular,c-terminal,0.626293991
+,270,0.174944166,Extracellular,domain II,0.666388399
+,131,0.175336213,Extracellular,domain I,0.665322201
+,1079,0.175998036,Intracellular,c-terminal,0.619398372
+,403,0.176340849,Extracellular,domain III,0.605010335
+,789,0.176550244,Intracellular,kinase,0.666575191
+,1188,0.176639802,Intracellular,c-terminal,0.606464889
+,445,0.176810193,Extracellular,domain III,0.661003423
+,1123,0.179027267,Intracellular,c-terminal,0.645993684
+,736,0.17997964,Intracellular,kinase,0.557718553
+,495,0.181653033,Extracellular,domain III,0.619398372
+,1098,0.183532825,Intracellular,c-terminal,0.589219077
+,1074,0.184468259,Intracellular,c-terminal,0.668098423
+,973,0.187413875,Intracellular,kinase,0.67485527
+,699,0.1906326,Intracellular,juxtamembrane,0.643791011
+,485,0.192155523,Extracellular,domain III,0.613338003
+,990,0.192309069,Intracellular,c-terminal,0.58456743
+,295,0.192624785,Extracellular,domain II,0.639786585
+,296,0.196307771,Extracellular,domain II,0.67289563
+,1137,0.19676431,Intracellular,c-terminal,0.676233093
+,808,0.197490764,Intracellular,kinase,0.672643044
+,358,0.199959033,Extracellular,domain III,0.672412595
+,773,0.200661063,Intracellular,kinase,0.679470825
+,1066,0.201203341,Intracellular,c-terminal,0.678264759
+,421,0.201329329,Extracellular,domain III,0.61623209
+,963,0.201474149,Intracellular,kinase,0.680811366
+,857,0.201501579,Intracellular,kinase,0.6581
+,229,0.204293595,Extracellular,domain II,0.66671249
+,822,0.205843916,Intracellular,kinase,0.605996408
+,101,0.207031038,Extracellular,domain I,0.675825747
+,695,0.209025828,Intracellular,juxtamembrane,0.643960318
+,833,0.21027868,Intracellular,kinase,0.671805311
+,914,0.210335529,Intracellular,kinase,0.625117556
+,448,0.210600177,Extracellular,domain III,0.678637648
+,852,0.212285049,Intracellular,kinase,0.662221647
+,559,0.212545183,Extracellular,domain IV,0.682783274
+,548,0.213947906,Extracellular,domain IV,0.685776381
+,636,0.214633653,Extracellular,domain IV,0.684951948
+,332,0.217016167,Extracellular,domain II,0.688564808
+,715,0.218237201,Intracellular,kinase,0.690638437
+,576,0.218262417,Extracellular,domain IV,0.661909114
+,134,0.219828196,Extracellular,domain I,0.69100783
+,401,0.221991523,Extracellular,domain III,0.69317251
+,475,0.223061948,Extracellular,domain III,0.691494646
+,546,0.224293752,Extracellular,domain IV,0.684951948
+,65,0.224709989,Extracellular,domain I,0.690294116
+,866,0.225015292,Intracellular,kinase,0.689092963
+,261,0.227893872,Extracellular,domain II,0.694484393
+,964,0.228627256,Intracellular,kinase,0.694385221
+,58,0.228648311,Extracellular,domain I,0.693873514
+,1068,0.229123556,Intracellular,c-terminal,0.695127152
+,1087,0.23049997,Intracellular,c-terminal,0.695127152
+,916,0.231112523,Intracellular,kinase,0.690446
+,41,0.231123382,Extracellular,domain I,0.693689177
+,1107,0.232412356,Intracellular,c-terminal,0.692971004
+,1183,0.233019722,Intracellular,c-terminal,0.689850157
+,337,0.235693381,Extracellular,domain III,0.676321644
+,513,0.236086584,Extracellular,domain IV,0.690020872
+,1088,0.236665952,Intracellular,c-terminal,0.66859568
+,43,0.237278455,Extracellular,domain I,0.691975356
+,609,0.237460553,Extracellular,domain IV,0.692162871
+,830,0.237811135,Intracellular,kinase,0.690294116
+,652,0.242289314,Intracellular,transmembraine,0.69100783
+,579,0.243642548,Extracellular,domain IV,0.677897349
+,1194,0.246125148,Intracellular,c-terminal,0.679268916
+,201,0.24661112,Extracellular,domain II,0.680358011
+,520,0.247597649,Extracellular,domain IV,0.682830341
+,228,0.247750238,Extracellular,domain II,0.684320071
+,877,0.249499331,Intracellular,kinase,0.672412595
+,1146,0.251358409,Intracellular,c-terminal,0.664570991
+,792,0.256789449,Intracellular,kinase,0.678496399
+,472,0.258185874,Extracellular,domain III,0.621860465
+,631,0.260443286,Extracellular,domain IV,0.680358011
+,501,0.26477937,Extracellular,domain III,0.677920194
+,959,0.265015256,Intracellular,kinase,0.518575387
+,936,0.265297427,Intracellular,kinase,0.640023744
+,473,0.266553526,Extracellular,domain III,0.66671249
+,1122,0.267820701,Intracellular,c-terminal,0.668967379
+,35,0.269129159,Extracellular,domain I,0.657763416
+,32,0.270189929,Extracellular,domain I,0.674312619
+,1097,0.271917436,Intracellular,c-terminal,0.669474919
+,482,0.272449751,Extracellular,domain III,0.682733993
+,863,0.273399464,Intracellular,kinase,0.663157989
+,7,0.27616206,Extracellular,signal peptide,0.668676496
+,1176,0.276466023,Intracellular,c-terminal,0.653834639
+,664,0.278236422,Intracellular,transmembraine,0.627220573
+,538,0.285418407,Extracellular,domain IV,0.672673593
+,382,0.285947442,Extracellular,domain III,0.630056282
+,941,0.28789043,Intracellular,kinase,0.657762029
+,687,0.288180757,Intracellular,juxtamembrane,0.661333643
+,216,0.288655669,Extracellular,domain II,0.647139326
+,224,0.288955045,Extracellular,domain II,0.64720905
+,1019,0.289145558,Intracellular,c-terminal,0.63651844
+,678,0.291702006,Intracellular,juxtamembrane,0.665024842
+,241,0.293396704,Extracellular,domain II,0.678086896
+,733,0.295102613,Intracellular,kinase,0.64009524
+,98,0.299464852,Extracellular,domain I,0.581398708
+,843,0.302356133,Intracellular,kinase,0.593986213
+,706,0.302429992,Intracellular,kinase,0.661120221
+,1125,0.307795862,Intracellular,c-terminal,0.604790369
+,288,0.309210056,Extracellular,domain II,0.50498915
+,147,0.309232446,Extracellular,domain I,0.66141443
+,1084,0.310049125,Intracellular,c-terminal,0.61359457
+,491,0.312054384,Extracellular,domain III,0.650024467
+,997,0.316881722,Intracellular,c-terminal,0.677920194
+,328,0.318573565,Extracellular,domain II,0.668434859
+,1131,0.320363507,Intracellular,c-terminal,0.60205242
+,923,0.322599736,Intracellular,kinase,0.669097361
+,314,0.325991237,Extracellular,domain II,0.504820424
+,89,0.32928655,Extracellular,domain I,0.62297718
+,1092,0.329813374,Intracellular,c-terminal,0.5454172
+,28,0.334066774,Extracellular,domain I,0.627059896
+,24,0.337420826,Extracellular,domain I,0.630582633
+,642,0.33743865,Extracellular,domain IV,0.610810451
+,911,0.337805604,Intracellular,kinase,0.62693801
+,528,0.338353241,Extracellular,domain IV,0.60543353
+,309,0.338696344,Extracellular,domain II,0.611691303
+,1195,0.338925214,Intracellular,c-terminal,0.566732038
+,8,0.343158298,Extracellular,signal peptide,0.62693801
+,795,0.347125711,Intracellular,kinase,0.615459548
+,1151,0.347412179,Intracellular,c-terminal,0.612377728
+,1044,0.352199682,Intracellular,c-terminal,0.36797075
+,95,0.353248313,Extracellular,domain I,0.577839442
+,998,0.353254479,Intracellular,c-terminal,0.648410555
+,38,0.354109383,Extracellular,domain I,0.45745133
+,18,0.35712801,Extracellular,signal peptide,0.618590668
+,87,0.358886842,Extracellular,domain I,0.428525454
+,150,0.36071618,Extracellular,domain I,0.619139736
+,308,0.363507657,Extracellular,domain II,0.603381295
+,441,0.366985879,Extracellular,domain III,0.514193361
+,828,0.368410001,Intracellular,kinase,0.149964687
+,1202,0.370234035,Intracellular,c-terminal,0.566802582
+,143,0.373091073,Extracellular,domain I,0.618334874
+,120,0.373745655,Extracellular,domain I,0.440693273
+,1017,0.375756673,Intracellular,c-terminal,0.642563059
+,39,0.377805292,Extracellular,domain I,0.57566187
+,1184,0.381626576,Intracellular,c-terminal,0.525639025
+,1198,0.384059049,Intracellular,c-terminal,0.368214354
+,215,0.385781635,Extracellular,domain II,0.596782769
+,939,0.387188947,Intracellular,kinase,0.506664329
+,928,0.388699225,Intracellular,kinase,0.565863638
+,189,0.390554015,Extracellular,domain II,0.656288852
+,326,0.395809795,Extracellular,domain II,0.555921893
+,1015,0.398319692,Intracellular,c-terminal,0.449540642
+,226,0.400855566,Extracellular,domain II,0.606464889
+,989,0.404908238,Intracellular,c-terminal,0.579305048
+,384,0.406175593,Extracellular,domain III,0.372140102
+,347,0.406561366,Extracellular,domain III,0.653537934
+,913,0.40852469,Intracellular,kinase,0.627570383
+,128,0.410442131,Extracellular,domain I,0.561410271
+,365,0.411360284,Extracellular,domain III,0.646217818
+,519,0.411798711,Extracellular,domain IV,0.599151787
+,961,0.413156688,Intracellular,kinase,0.47052875
+,37,0.418732229,Extracellular,domain I,0.571495924
+,656,0.42093839,Intracellular,transmembraine,0.598680194
+,878,0.421318751,Intracellular,kinase,0.637130752
+,1171,0.42563254,Intracellular,c-terminal,0.641655999
+,1034,0.426221194,Intracellular,c-terminal,0.617591108
+,462,0.428361282,Extracellular,domain III,0.618190388
+,1023,0.435355873,Intracellular,c-terminal,0.613324333
+,351,0.435840878,Extracellular,domain III,0.558417888
+,1008,0.443278137,Intracellular,c-terminal,0.606644815
+,431,0.445687605,Extracellular,domain III,0.520264874
+,440,0.447361872,Extracellular,domain III,0.566268111
+,780,0.448189478,Intracellular,kinase,0.628431177
+,900,0.44906799,Intracellular,kinase,0.581210711
+,707,0.449965303,Intracellular,kinase,0.461661181
+,23,0.450243811,Extracellular,signal peptide,0.498313326
+,1076,0.452906688,Intracellular,c-terminal,0.561959103
+,236,0.456080007,Extracellular,domain II,0.085862442
+,459,0.461953064,Extracellular,domain III,0.581028837
+,723,0.468803501,Intracellular,kinase,0.517814567
+,1152,0.469752381,Intracellular,c-terminal,0.231051152
+,2,0.469898943,Extracellular,signal peptide,0.475773579
+,1056,0.472021067,Intracellular,c-terminal,0.355755171
+,230,0.472306241,Extracellular,domain II,0.588780848
+,1016,0.479839181,Intracellular,c-terminal,0.557438651
+,171,0.480112756,Extracellular,domain I,0.618590668
+,904,0.482742796,Intracellular,kinase,0.63377304
+,425,0.486311116,Extracellular,domain III,0.616101706
+,352,0.488324933,Extracellular,domain III,0.566364957
+,698,0.493738333,Intracellular,juxtamembrane,0.458925151
+,693,0.496737349,Intracellular,juxtamembrane,0.36951518
+,416,0.499188705,Extracellular,domain III,0.485589142
+,993,0.506907514,Intracellular,c-terminal,0.356395614
+,930,0.509866308,Intracellular,kinase,0.53443455
+,203,0.517757815,Extracellular,domain II,0.362599128
+,1197,0.519985525,Intracellular,c-terminal,0.578870568
+,256,0.520966347,Extracellular,domain II,0.581664891
+,213,0.5313378,Extracellular,domain II,0.591590001
+,1112,0.532390921,Intracellular,c-terminal,0.581043999
+,729,0.537927873,Intracellular,kinase,0.506575727
+,590,0.539145134,Extracellular,domain IV,0.222085736
+,432,0.540731586,Extracellular,domain III,0.530297059
+,349,0.549092244,Extracellular,domain III,0.279046629
+,76,0.549764581,Extracellular,domain I,0.379163167
+,3,0.550384767,Extracellular,signal peptide,0.523510769
+,585,0.554833771,Extracellular,domain IV,0.576571866
+,1163,0.560721447,Intracellular,c-terminal,0.589870211
+,1136,0.564717962,Intracellular,c-terminal,0.473439801
+,405,0.567301677,Extracellular,domain III,0.43174865
+,1111,0.571219511,Intracellular,c-terminal,0.591286625
+,949,0.575253286,Intracellular,kinase,0.427445981
+,1024,0.57766641,Intracellular,c-terminal,0.546254019
+,113,0.577972376,Extracellular,domain I,0.534983379
+,457,0.581807698,Extracellular,domain III,0.504687775
+,529,0.585404536,Extracellular,domain IV,0.553685227
+,917,0.587970391,Intracellular,kinase,0.489798261
+,879,0.591642673,Intracellular,kinase,0.6167351
+,1059,0.598375443,Intracellular,c-terminal,0.462861976
+,1072,0.601326968,Intracellular,c-terminal,0.536225816
+,1080,0.619027355,Intracellular,c-terminal,0.554167795
+,823,0.625154086,Intracellular,kinase,0.501532077
+,275,0.629203679,Extracellular,domain II,0.589950281
+,426,0.632232527,Extracellular,domain III,0.558118989
+,297,0.638256976,Extracellular,domain II,0.485196497
+,385,0.640991094,Extracellular,domain III,0.432985523
+,16,0.647471562,Extracellular,signal peptide,0.606599879
+,732,0.661184907,Intracellular,kinase,0.581632874
+,90,0.671791485,Extracellular,domain I,0.48797604
+,979,0.6779865,Intracellular,c-terminal,0.614781399
+,1077,0.680369573,Intracellular,c-terminal,0.38068746
+,82,0.690846245,Extracellular,domain I,0.606453451
+,371,0.69128052,Extracellular,domain III,0.588316696
+,978,0.693047343,Intracellular,kinase,0.542451957
+,160,0.698251369,Extracellular,domain I,0.606464889
+,787,0.701925774,Intracellular,kinase,0.168160146
+,827,0.722879212,Intracellular,kinase,0.444120267
+,919,0.73059627,Intracellular,kinase,0.599853615
+,375,0.732158755,Extracellular,domain III,0.542069912
+,714,0.741658487,Intracellular,kinase,0.143915667
+,601,0.74706936,Extracellular,domain IV,0.484066262
+,379,0.757624616,Extracellular,domain III,0.266339155
+,1200,0.761627446,Intracellular,c-terminal,0.381939663
+,974,0.77537099,Intracellular,kinase,0.556080286
+,667,0.776651734,Intracellular,transmembraine,0.594314988
+,1083,0.78269833,Intracellular,c-terminal,0.460970401
+,354,0.791956983,Extracellular,domain III,0.537405335
+,136,0.792347157,Extracellular,domain I,0.408813823
+,508,0.79495775,Extracellular,domain IV,0.462769023
+,1069,0.801842681,Intracellular,c-terminal,0.507066923
+,821,0.814356415,Intracellular,kinase,0.140851797
+,1186,0.821990554,Intracellular,c-terminal,0.585256674
+,954,0.822642087,Intracellular,kinase,0.566622166
+,1129,0.823547664,Intracellular,c-terminal,0.262666607
+,183,0.844348875,Extracellular,domain I,0.408381496
+,730,0.849821074,Intracellular,kinase,0.464090928
+,1144,0.87676736,Intracellular,c-terminal,0.519194106
+,162,0.889233843,Extracellular,domain I,0.447563442
+,180,0.895797894,Extracellular,domain I,0.480925029
+,763,0.899432344,Intracellular,kinase,0.510641288
+,195,0.961128718,Extracellular,domain II,0.351030664
+,49,1.01590473,Extracellular,domain I,0.416408137
+,944,1.1122983,Intracellular,kinase,0.491225918
+,456,1.121091498,Extracellular,domain III,0.496851115
+,575,1.124055149,Extracellular,domain IV,0.307566919
+,1192,1.146745709,Intracellular,c-terminal,0.493532316
+,381,1.162485475,Extracellular,domain III,0.309334477
+,1108,1.196601415,Intracellular,c-terminal,0.453549175
+,630,1.268997897,Extracellular,domain IV,0.535570668
+,798,1.271480364,Intracellular,kinase,0.386360339
+,340,1.284375724,Extracellular,domain III,0.540657447
+,759,1.309439731,Intracellular,kinase,0.30189062
+,691,1.329121806,Intracellular,juxtamembrane,0.544073767
+,572,1.337938759,Extracellular,domain IV,0.361386635
+,1090,1.353403984,Intracellular,c-terminal,0.310691405
+,854,1.359476472,Intracellular,kinase,0.555293109
+,474,1.457000206,Extracellular,domain III,0.544434834
+,106,1.461958514,Extracellular,domain I,0.468717305
+,1155,1.496161687,Intracellular,c-terminal,0.532807898
+,725,1.607656887,Intracellular,kinase,0.392386306
+,109,1.611629628,Extracellular,domain I,0.54264446
+,1170,1.614468576,Intracellular,c-terminal,0.43716976
+,760,1.698651757,Intracellular,kinase,0.554744978
+,738,1.929006839,Intracellular,kinase,0.533262097
+,262,2.211212674,Extracellular,domain II,0.525282023
