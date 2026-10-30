@@ -11,10 +11,9 @@ Glu, Mere, NVP, Savo, Tepo, Tiv.
 ## Repository layout
 
 ```
-MET_unfiltered.csv              source table, 65,208 x 70 -- everything below is derived from it
-MET_muteff_kinase_domain.csv    65,208 x 36   mutational effect, 287 aa domain context (main text)
-MET_muteff_full_length.csv      65,208 x 31   mutational effect, 1390 aa context (SI)
-MET_affinity.csv                65,208 x 29   protein-ligand affinity and binding ddG (main text)
+MET_muteff_kinase_domain.csv    65,208 x 36   mutational effect, 287 aa domain context 
+MET_muteff_full_length.csv      65,208 x 31   mutational effect, 1390 aa context
+MET_affinity.csv                65,208 x 29   protein-ligand affinity and binding ddG 
 
 kinases/                        five non-MET kinase DMS datasets, one CSV each, not split
   CDK4.csv                      11,476 x 34   CDK4,     DMSO + Pal
