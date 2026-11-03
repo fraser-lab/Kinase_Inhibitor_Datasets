@@ -62,5 +62,16 @@ scripts/
 
 ## Cite this work
 
-If you use this data in your research, please cite the following paper:
+@article {Zou2026.11.01.763444,
+	author = {Zou, Ziyue and Hazelwood, Isaiah and Estevam, Gabriella and Rao, Jingyou and Chrispens, Karson and Howard, Matthew K. and Coyote-Maestas, Willow and Fraser, James S},
+	title = {Learning inhibitor interactions from protein deep mutational scanning data and deep learning models},
+	elocation-id = {2026.11.01.763444},
+	year = {2026},
+	doi = {10.64898/2026.11.01.763444},
+	publisher = {Cold Spring Harbor Laboratory},
+	URL = {https://www.biorxiv.org/content/early/2026/11/03/2026.11.01.763444},
+	eprint = {https://www.biorxiv.org/content/early/2026/11/03/2026.11.01.763444.full.pdf},
+	journal = {bioRxiv}
+}
+
 
