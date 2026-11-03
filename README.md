@@ -62,6 +62,7 @@ scripts/
 
 ## Cite this work
 
+```
 @article {Zou2026.11.01.763444,
 	author = {Zou, Ziyue and Hazelwood, Isaiah and Estevam, Gabriella and Rao, Jingyou and Chrispens, Karson and Howard, Matthew K. and Coyote-Maestas, Willow and Fraser, James S},
 	title = {Learning inhibitor interactions from protein deep mutational scanning data and deep learning models},
@@ -73,5 +74,5 @@ scripts/
 	eprint = {https://www.biorxiv.org/content/early/2026/11/03/2026.11.01.763444.full.pdf},
 	journal = {bioRxiv}
 }
-
+```
 
